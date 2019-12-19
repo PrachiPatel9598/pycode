@@ -1,4 +1,4 @@
 x=10
 def f1():
-	print("hell prachiiiiiiii",x)
+	print("hello prachiiiiiiii",x)
 f1()
